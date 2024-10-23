@@ -1,8 +1,9 @@
 # CAD-Mechanics
-here you can find the models we used to control our chess board.
+aquí puedes encontrar los modelos que utilizamos para controlar nuestro tablero de ajedrez.
+https://hackaday.io/project/179268-automatic-chessboard
 
-- you can find the casing models in the **CASE-Assy** folder.
-![](case_board.png)
-- and you can also find the parts of our mechanism in the **SCARA-Assy**
-![](Scara_mechanism.png)
+- puede encontrar los modelos de carcasa en la carpeta **CASE-Assy**.
+- ![](case_board.png)
+- y también puede encontrar las piezas de nuestro mecanismo en el **SCARA-Assy**.
+- ![](Scara_mechanism.png)
 
